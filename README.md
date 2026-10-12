@@ -61,3 +61,5 @@ Open your terminal and run the command matching your operating system (adjust th
 **Windows:**
 ```cmd
 pip install "C:\Program Files\Stata18\utilities\pystata"
+
+If this fails download the "pystata" folder in main into this location directly.
